@@ -79,6 +79,8 @@ If you encounter an issue with the template, we encourage you to open an issue i
 
 ## Steps I followed
 
+1.  **Build and Run in iOS Simulator**
+
     ```shell
     # NPM Install
     npm install --legacy-peer-deps
