@@ -47,6 +47,7 @@ try {
 
 const getStories = () => {
   return {
+    "./components/MyButton.stories.jsx": require("../components/MyButton.stories.jsx"),
     "./components/Task.stories.jsx": require("../components/Task.stories.jsx"),
   };
 };
